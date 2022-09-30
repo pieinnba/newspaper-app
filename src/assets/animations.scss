@@ -1,0 +1,34 @@
+@keyframes running-line {
+    0% {
+        transform: scaleX(0);
+        transform-origin: bottom left;
+    }
+    25% {
+        transform: scaleX(50%);
+    }
+    50% {
+        transform-origin: bottom center;
+    }
+    75% {
+        transform: scaleX(50%);
+    }
+    100% {
+        transform: scaleX(0);
+        transform-origin: bottom right;
+    }
+}
+
+@keyframes loadscreen {
+    0% {
+        transform: scaleX(75%);
+        background-color: rgba(255, 111, 15, 0.3);
+    }
+    50% {
+        transform: scaleX(100%);
+        background-color: rgba(255, 111, 15, 0.5);
+    }
+    100% {
+        transform: scaleX(75%);
+        background-color: rgba(255, 111, 15, 0.3);
+    }
+}

@@ -1,0 +1,12 @@
+@mixin backLine {
+    position: absolute;
+    border-radius: 90%;
+    content: '';
+    background-color: $signature-color;
+    width: 50%;
+    transform: translate(50%, -450%) rotate(-0.04turn);
+    height: 10%;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+}
