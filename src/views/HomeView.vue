@@ -55,7 +55,7 @@
       padding-left: 1.6rem;
       background: url("@/icons/search-icon.svg") no-repeat left;
       background-size: 1.5rem;
-      max-width: 6.5rem;
+      max-width: 6.7rem;
       transition: all .1s ease-in-out;
       font-size: 1.5rem;
       position: relative;

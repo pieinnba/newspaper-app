@@ -97,6 +97,7 @@
             font-size: .7rem;
         }
         .date-block-day-of-month {
+            text-align: center;
             font-size: 2rem;
         }
     }
