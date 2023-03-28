@@ -11,4 +11,4 @@ This project developed for anchoring my skills on practice.
 > - To create Twitter Share button was imported free package from Web;
 > - Page has autoloading new posts.
 
-*App have only desktop version.*
+*App has only desktop version.*
